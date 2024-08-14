@@ -21,7 +21,7 @@ export default function Home() {
       
      <iframe
     src="https://<space-subdomain>.hf.space"
-    frameborder="0"
+    frameBorder="0"
     width="850"
     height="450"
 ></iframe>
