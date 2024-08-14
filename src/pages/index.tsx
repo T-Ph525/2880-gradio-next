@@ -22,8 +22,6 @@ export default function Home() {
      <iframe
     src="https://mrcuddle-Erato.hf.space"
     frameBorder="0"
-    width="850"
-    height="450"
 ></iframe>
           
     </>
