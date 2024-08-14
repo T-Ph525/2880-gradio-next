@@ -20,7 +20,6 @@ export default function Home() {
       </Head>
      <iframe
     src="https://mrcuddle-Erato.hf.space"
-    frameBorder="0"
        width="100%"
       height={height}
       scrolling="no"
