@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
-
+import Iframe from 'react-iframe'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -19,10 +19,12 @@ export default function Home() {
 </script>
       </Head>
       
-      <gradio-app
-        src="https://fabiochiu-sentiment-analysis-demo.hf.space"
-        initial_height="800px"
-      ></gradio-app>
+     <iframe
+    src="https://<space-subdomain>.hf.space"
+    frameborder="0"
+    width="850"
+    height="450"
+></iframe>
           
     </>
   )
