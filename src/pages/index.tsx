@@ -18,10 +18,13 @@ export default function Home() {
     src="https://gradio.s3-us-west-2.amazonaws.com/3.16.2/gradio.js">
 </script>
       </Head>
-      
      <iframe
     src="https://mrcuddle-Erato.hf.space"
     frameBorder="0"
+       width="100%"
+      height={height}
+      scrolling="no"
+      frameBorder="0"
 ></iframe>
           
     </>
