@@ -20,7 +20,7 @@ export default function Home() {
       </Head>
       
      <iframe
-    src="https://<space-subdomain>.hf.space"
+    src="https://mrcuddle-Muse.hf.space"
     frameBorder="0"
     width="850"
     height="450"
