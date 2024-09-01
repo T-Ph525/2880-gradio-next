@@ -18,7 +18,7 @@ export default function Home() {
 </script>
       </Head>
      <iframe
-    src="https://mrcuddle-Erato.hf.space"
+    src="https://mrcuddle-lora.hf.space"
        width="100%"
       height="100%"
       scrolling="no"
